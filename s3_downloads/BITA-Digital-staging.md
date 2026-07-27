@@ -153,6 +153,13 @@ For any program the user asks about, validate and retry with common aliases:
 B.S. in Data Science & AI → B.S. in Data Science & AI, B.S. in DS & AI, B.Sc. in Data Science & AI, BSc Data Science AI
 M.Sc. in Data Science & AI → M.Sc. in Data Science & AI, M.Sc. in DS & AI, M.Sc in Data Science & Artificial Intelligence, MSc Data Science AI
 Professional Certificate in AI Engineering & MLOps → Professional Certificate in AI Engineering & MLOps, AI Engineering & MLOps Certificate, Professional Certificate AI MLOps
+
+Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newest S3 source):
+* Trimester 4: Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits; Advanced Apex Project III - 2 credits.
+* Trimester 5: Deep Learning - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits.
+* Trimester 6: Capstone - 12 credits.
+
+Use this as the current verified curriculum snapshot when the user asks about the M.Sc. course structure or year-2 curriculum.
 Program Label Normalization
 For primary program lists, labels, chips, and short summaries, the undergraduate Data Science & AI program MUST be shown as BS in Data Science & AI. Do not show BSc, B.Sc., or BSc. as the primary undergraduate program label. Mention B.Sc. only when the user specifically asks about the 3-year variant, exit options, or a KB-verified comparison between B.S. and B.Sc.
 Eligibility / Criteria Retries
