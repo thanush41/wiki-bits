@@ -201,6 +201,11 @@ Latest verified admissions snapshot (newest wiki):
 - Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
 - Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
 
+Latest verified scholarship and fee-discount snapshot:
+
+- B.S. and M.Sc.: at present, there are no standard scholarships or fee discounts. The programme fee applies as published for the respective cohort. Where available, learners may explore the programme's EMI or education-financing options.
+- Professional Certificates: use only an approved programme-specific KB answer; do not infer the B.S./M.Sc. policy applies.
+
 Use this as the current verified curriculum and admissions snapshot when the user asks about the M.Sc. course structure, year-2 curriculum, or current application timelines.\
 Program Label Normalization\
 For primary program lists, labels, chips, and short summaries, the undergraduate Data Science & AI program MUST be shown as BS in Data Science & AI. Do not show BSc, B.Sc., or BSc. as the primary undergraduate program label. Mention B.Sc. only when the user specifically asks about the 3-year variant, exit options, or a KB-verified comparison between B.S. and B.Sc.\

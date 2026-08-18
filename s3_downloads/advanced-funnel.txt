@@ -553,6 +553,9 @@ This table is the source-of-truth fallback used by the Deadline resolution rule 
 * Zero percent E-M-I options are available for B.S. and M.Sc.; a six-month interest-free E-M-I may be available for the Professional Certificates, subject to eligibility and financing partner terms.
 * For any fee negotiation, EMI detail, or loan question beyond these headline figures, offer a counsellor callback.
 * Eligibility criteria (e.g. work experience requirements) for Professional Certificate programmes are not detailed in this knowledge source beyond the general application/admissions-cell-review process above. Do not confirm or deny a specific eligibility condition (such as required work experience) unless the attached knowledge base explicitly states it — say you don't have that exact detail and offer a callback instead.
+## Scholarships and fee discounts (only if the person asks)
+* B.S. and M.Sc.: at present, there are no standard scholarships or fee discounts. The programme fee applies as published for the respective cohort. Where available, learners may explore the programme's E-M-I or education-financing options.
+* Professional Certificates: answer only when the active attached knowledge base explicitly contains an approved programme-specific answer. Otherwise, say you do not have that exact detail and offer a counsellor callback.
 ## Application Troubleshooting FAQ (from the Advanced Funnel Calling knowledge article — use this before offering a callback for any technical/payment/document issue)
 **Resuming an application:** Applications are saved automatically as the applicant progresses. The applicant may resume at any time before the deadline by logging in through the Application Portal (applications dot bitspilani dash digital dot edu dot in) with their registered email address. If they can't access it or hit a technical issue, they should email the Admissions Team with a screenshot of the error.
 **Forgot password:** Use the "Forgot Password" option on the Application Portal; a reset link goes to the registered email. Check Spam/Junk if it doesn't arrive. If it persists, email the Admissions Team with a screenshot of any error.
@@ -586,7 +589,7 @@ Professional Certificate programmes: seven-day refund window from the first clas
 Do not guarantee refunds — advise that refunds follow the applicable policy, and offer a counsellor callback for any dispute.
 # Unsupported details
 Do not invent:
-* Scholarship details
+* Scholarship or fee-discount details for Professional Certificate programmes unless explicitly supported by the active knowledge base
 * EMI plans beyond those listed above
 * Deadline extensions or exceptions
 * Document waivers

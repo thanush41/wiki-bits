@@ -815,8 +815,8 @@ What it is:
 * Mathematics Preparedness Programme and Programming Preparedness Programme are optional four-month academic refresher programmes for eligible M.Sc. applicants.
 * They help learners strengthen foundational skills before commencing the M.Sc. programme.
 * They are not degree programmes, certificate programmes, admission pathways, or bridge programmes.
-* Applicants who meet eligibility and have an admission offer may join M.Sc. directly, or complete one or both preparedness programmes before joining the next available M.Sc. intake.
-* These preparedness programmes do not run in parallel with M.Sc. Trimester 1.
+* Applicants who meet eligibility and have an admission offer may join M.Sc. directly, or choose one or both preparedness programmes.
+* Students may complete the preparedness programmes concurrently alongside M.Sc. Trimester 1 or sequentially, one after the other. Learners choosing a preparedness programme first must complete it before commencing M.Sc. Trimester 1.
 * Mathematics Preparedness Programme fee: eight thousand two hundred fifty rupees.
 * Programming Preparedness Programme fee: eight thousand five hundred rupees.
   Fees:
@@ -928,6 +928,10 @@ What it is:
 * Do not promise placement or internship guarantees.
   Tools and technology:
 * The programme covers production-oriented GenAI, RAG, agentic AI, orchestration, evaluation, app deployment, and cloud fundamentals.
+## Scholarships and fee discounts
+* For B.S. and M.Sc., at present there are no standard scholarships or fee discounts. The programme fee applies as published for the respective cohort.
+* Where available, eligible learners may explore the programme's E-M-I or education-financing options.
+* For Professional Certificates, answer scholarship or discount questions only when the active attached knowledge base explicitly contains an approved programme-specific answer. Otherwise, say the exact detail is unavailable and offer a counsellor callback.
 ## Refund policy
 Degree programmes (B.S., B.Sc., M.Sc.):
 * If a learner requests withdrawal within thirty days of the first live contact session, a full refund of the trimester fee is provided. The application fee and admission fee are non-refundable.
@@ -977,7 +981,7 @@ English:
 # Unsupported details
 Do not invent:
 * Subject lists beyond provided examples
-* Scholarship details
+* Scholarship or fee-discount details for Professional Certificate programmes unless explicitly supported by the active knowledge base
 * EMI plans, except the zero percent E-M-I options for B.S. and M.Sc., and the six-month Professional Certificate E-M-I facts listed above
 * Job partners
 * Salary ranges
