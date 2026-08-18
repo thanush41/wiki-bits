@@ -1,4 +1,5 @@
 import os
+import hashlib
 import boto3
 from dotenv import load_dotenv
 from pathlib import Path
@@ -12,6 +13,21 @@ AWS_REGION = os.getenv("AWS_REGION", "us-east-1")
 S3_BUCKET = os.getenv("S3_BUCKET_NAME")
 S3_PREFIX = os.getenv("S3_PREFIX", "")  # optional folder prefix inside the bucket
 OUTPUT_DIR = Path(os.getenv("S3_OUTPUT_DIR", "s3_downloads"))
+
+
+def local_file_matches_object(local_path: Path, obj: dict) -> bool:
+    if not local_path.exists() or local_path.stat().st_size != obj["Size"]:
+        return False
+
+    etag = obj.get("ETag", "").strip('"')
+    if not etag or "-" in etag:
+        return False
+
+    digest = hashlib.md5()
+    with local_path.open("rb") as file:
+        for chunk in iter(lambda: file.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest() == etag
 
 
 def download_bucket(bucket: str, prefix: str, output_dir: Path):
@@ -62,8 +78,8 @@ def download_bucket(bucket: str, prefix: str, output_dir: Path):
             # create parent dirs
             local_path.parent.mkdir(parents=True, exist_ok=True)
 
-            # skip if already downloaded (re-run safe)
-            if local_path.exists() and local_path.stat().st_size == obj["Size"]:
+            # ETag is an MD5 for non-multipart S3 objects, so same-size edits are detected.
+            if local_file_matches_object(local_path, obj):
                 print(f"  skip  {relative_key}  (already exists)")
                 skipped += 1
                 continue
@@ -78,7 +94,7 @@ def download_bucket(bucket: str, prefix: str, output_dir: Path):
     if latest_key and latest_modified:
         print(f"\nMost recently updated file: {latest_key} (modified at {latest_modified.isoformat()})")
 
-    print(f"\nDone. {downloaded} downloaded, {skipped} skipped → {output_dir.resolve()}")
+    print(f"\nDone. {downloaded} downloaded, {skipped} skipped -> {output_dir.resolve()}")
 
 
 if __name__ == "__main__":

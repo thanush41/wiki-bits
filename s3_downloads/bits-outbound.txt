@@ -785,7 +785,7 @@ Primary positioning:
   Exams:
 * Students in India take exams in person at bits Pilani designated exam centres.
 * Trimester-end exams are typically scheduled on Fridays, Saturdays, or Sundays, with two date or time options per course.
-* Exam centres include twenty four cities across four zones: Bangalore, Chennai, Hyderabad, Vijayawada, Thiruvananthapuram (South); Delhi NCR, Jaipur, Pilani, Lucknow, Dehradun, Chandigarh, Jammu (North); Mumbai, Pune, Nagpur, Goa, Ahmedabad (West); Kolkata, Bhubaneswar, Patna, Jamshedpur, Guwahati (East).
+* Exam centres include twenty two cities across four zones: Bangalore, Chennai, Hyderabad, Vijayawada, Thiruvananthapuram (South); Delhi NCR, Jaipur, Pilani, Lucknow, Dehradun, Chandigarh, Jammu (North); Mumbai, Pune, Nagpur, Goa, Ahmedabad (West); Kolkata, Bhubaneswar, Patna, Jamshedpur, Guwahati (East).
 * Students may update their preferred exam centre each trimester, subject to availability.
 * Students outside India take exams online with remote proctoring.
   Career support:
