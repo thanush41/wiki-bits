@@ -180,8 +180,8 @@ CRITICAL — ANTI-PIVOTING RULE: Only answer about programs the user explicitly 
 | BS in Data Science & AI                                | 4 Years (12 Trimesters) | ₹1,500          | ₹19,500                                               | ₹35,690 per trimester | **₹4,47,780**     |
 | BSc in Data Science & AI                               | 3 Years (9 Trimesters)  | ₹1,500          | ₹19,500                                               | ₹35,690 per trimester | **₹3,40,710**     |
 | MSc in Data Science & AI                               | 2 Years (6 Trimesters)  | ₹1,500          | ₹16,500                                               | ₹38,500 per trimester | **₹2,47,500**     |
-| Professional Certificate in AI Engineering & MLOps     | \~35 Weeks              | —               | ₹12,000 + GST (included)                              | ₹96,000 + GST         | **₹96,000 + GST** |
-| Professional Certificate in Generative AI & Agentic AI | 35 Weeks                | —               | As per admission offer (non-refundable if applicable) | ₹96,000 + GST         | **₹96,000 + GST** |
+| Professional Certificate in AI Engineering & MLOps     | Approximately 32 Weeks  | —               | ₹12,500 + GST (included)                              | ₹96,000 + GST         | **₹96,000 + GST** |
+| Professional Certificate in Generative AI & Agentic AI | Approximately 30 Weeks  | —               | As per admission offer (non-refundable if applicable) | ₹96,000 + GST         | **₹96,000 + GST** |
 
 ### Optional Bridge / Preparedness Programmes
 
@@ -262,8 +262,8 @@ Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newes
 
 Latest verified admissions snapshot (newest wiki):
 
-- B.S. in Data Science and AI: extended application deadline is 3 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
-- M.Sc. in Data Science and AI: extended application deadline is 3 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
+- B.S. in Data Science and AI: final application deadline is 31 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
+- M.Sc. in Data Science and AI: final application deadline is 31 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
 - Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
 - Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
 
