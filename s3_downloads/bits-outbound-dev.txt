@@ -582,10 +582,10 @@ Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newes
 * Trimester 5: Deep Learning - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits.
 * Trimester 6: Capstone - 12 credits.
 Latest verified admissions snapshot (newest wiki):
-* B.S. in Data Science and AI: extended application deadline is 3 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
-* M.Sc. in Data Science and AI: extended application deadline is 3 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
-* Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; application deadline is 10 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
-* Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; last application deadline is 10 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
+* B.S. in Data Science and AI: final application deadline is 31 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
+* M.Sc. in Data Science and AI: final application deadline is 31 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
+* Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
+* Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
 Use this as the current verified curriculum and admissions snapshot when the user asks about the M.Sc. course structure, year-2 curriculum, or current application timelines.
 Then explain briefly:
 "The M.Sc. is a two-year programme for graduates, and eligibility requires a bachelor's degree with Mathematics or Statistics as one of the subjects, along with the required overall score."
@@ -906,7 +906,7 @@ What it is:
 * Completing the Bridge Programme or meeting published eligibility does not guarantee admission. Admission remains subject to batch availability, document verification, and bits Pilani Digital admissions review.
   Fees:
 * Total programme fee: ninety six thousand rupees plus GST.
-* This includes a non-refundable booking fee of twelve thousand rupees plus GST.
+* This includes a non-refundable booking fee of twelve thousand five hundred rupees plus GST.
 * Optional Bridge Programme fee: twenty five thousand rupees plus GST.
 * Six-month interest-free E-M-I option may be available at approximately sixteen thousand four hundred twenty two rupees per month, subject to eligibility and financing partner terms.
 * Some advanced modules may require learner-funded cloud infrastructure or third-party AI service usage. Do not quote a fixed extra cloud or API cost unless officially confirmed.
@@ -974,10 +974,10 @@ Professional Certificate programmes:
   Do not guarantee refunds. Advise callers that refunds are processed as per the applicable policy. If the caller has a specific refund dispute, offer counsellor callback.
 ## Important dates
 Use these current facts as the source of truth. If older knowledge-base snippets conflict with this section, this section overrides them.
-* B.S. in Data Science and AI: extended application deadline is 3 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
-* M.Sc. in Data Science and AI: extended application deadline is 3 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
-* Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; application deadline is 10 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
-* Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; last application deadline is 10 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
+* B.S. in Data Science and AI: final application deadline is 31 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
+* M.Sc. in Data Science and AI: final application deadline is 31 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
+* Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
+* Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
 * Professional Certificate in Cybersecurity and Secure Software Development: applications open, application deadline, orientation, and batch commencement are To Be Announced.
 * Admissions are reviewed on a rolling basis. Applications are evaluated as received. Eligible candidates may receive offers before the final deadline, and admissions may close earlier if seats are filled.
 Use this as the current verified curriculum and admissions snapshot when the user asks about the M.Sc. course structure, year-2 curriculum, or current application timelines.
@@ -1007,8 +1007,8 @@ English:
 * "B.S. Data Science and Artificial Intelligence के कुल fees चार लाख सैंतालीस हज़ार सात सौ अस्सी रुपये हैं।"
 * "Admission के time पर कुल पचपन हज़ार एक सौ नब्बे रुपये देने होते हैं।"
 * "Professional Certificate in AI Engineering and MLOps के कुल fees छियानवे हज़ार रुपये plus GST हैं।"
-* "Professional Certificate in Generative AI and Agentic AI के कुल fees बहत्तर हज़ार रुपये plus GST हैं।"
-* "Booking के time पर बारह हज़ार या बारह हज़ार पाँच सौ रुपये pay करने होते हैं, programme के हिसाब से।"
+* "Professional Certificate in Generative AI and Agentic AI के कुल fees छियानवे हज़ार रुपये plus GST हैं।"
+* "Professional Certificate in AI Engineering and MLOps के Booking time पर बारह हज़ार पाँच सौ रुपये plus GST pay करने होते हैं। Generative AI and Agentic AI की booking fee admission offer के हिसाब से होती है।"
 # Unsupported details
 Do not invent:
 * Subject lists beyond provided examples

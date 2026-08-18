@@ -1824,7 +1824,7 @@ Do not skip the personalised pitch unless:
 
   - Total programme fee: ninety six thousand rupees plus GST.
 
-  - This includes a non-refundable booking fee of twelve thousand rupees plus GST.
+  - This includes a non-refundable booking fee of twelve thousand five hundred rupees plus GST.
 
   - Optional Bridge Programme fee: twenty five thousand rupees plus GST.
 
@@ -2026,9 +2026,9 @@ Do not skip the personalised pitch unless:
 
   - "Professional Certificate in AI Engineering and MLOps की कुल fees छियानवे हजार रुपये plus GST है।"
 
-  - "Professional Certificate in Generative AI and Agentic AI की कुल fees बहत्तर हजार रुपये plus GST है।"
+  - "Professional Certificate in Generative AI and Agentic AI की कुल fees छियानवे हजार रुपये plus GST है।"
 
-  - "Booking के time पर बारह हजार या बारह हजार पाँच सौ रुपये pay करने होते हैं, programme के हिसाब से।"
+  - "Professional Certificate in AI Engineering and MLOps के Booking time पर बारह हजार पाँच सौ रुपये plus GST pay करने होते हैं। Generative AI and Agentic AI की booking fee admission offer के हिसाब से होती है।"
 
   # Unsupported details
 
