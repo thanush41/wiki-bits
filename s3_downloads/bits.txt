@@ -1896,7 +1896,7 @@ Do not skip the personalised pitch unless:
 
   Eligibility:
 
-  - A bachelor's degree from a recognised university is required, with Mathematics as part of the curriculum.
+  - Applicants must possess at least a bachelor's degree and should have studied Mathematics in Grade 12.
 
   - Minimum two years of relevant work experience is required in software development, technology, data, analytics, cloud, AI/ML, IT, or allied domains.
 

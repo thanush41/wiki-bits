@@ -906,7 +906,7 @@ What it is:
 * Software engineers, backend developers, data engineers, AI engineers, solution architects, platform engineers, and technical product managers.
 * Technology professionals with relevant experience who want to build LLM applications, RAG systems, and agentic AI workflows.
   Eligibility:
-* A bachelor's degree from a recognised university is required, with Mathematics as part of the curriculum.
+* Applicants must possess at least a bachelor's degree and should have studied Mathematics in Grade 12.
 * Minimum two years of relevant work experience is required in software development, technology, data, analytics, cloud, AI/ML, IT, or allied domains.
 * Applicants are expected to have foundational proficiency in Python programming and AWS fundamentals, or complete the prescribed Bridge pathway.
 * Applicants must submit a self-declaration confirming foundational proficiency in Python and AWS as part of the application form.

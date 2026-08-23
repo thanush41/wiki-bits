@@ -267,6 +267,11 @@ Latest verified admissions snapshot (newest wiki):
 - Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
 - Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
 
+Latest verified Professional Certificate eligibility snapshot:
+
+- Professional Certificate in Generative AI and Agentic AI: applicants must possess at least a bachelor's degree and should have studied Mathematics in Grade 12. A minimum of two years of relevant work experience and foundational proficiency in Python and AWS are also required; applicants without the foundational proficiency may use the approved eight-week Bridge Programme pathway, subject to the published admissions conditions.
+- Do not apply this Grade 12 Mathematics rule to the Professional Certificate in AI Engineering and MLOps; verify that programme's eligibility separately from its KB source.
+
 Latest verified scholarship and fee-discount snapshot:
 
 - B.S. and M.Sc.: at present, there are no standard scholarships or fee discounts. The programme fee applies as published for the respective cohort. Where available, learners may explore the programme's EMI or education-financing options.
