@@ -582,10 +582,10 @@ Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newes
 * Trimester 5: Deep Learning - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits.
 * Trimester 6: Capstone - 12 credits.
 Latest verified admissions snapshot (newest wiki):
-* B.S. in Data Science and AI: final application deadline is 31 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
-* M.Sc. in Data Science and AI: final application deadline is 31 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
-* Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
-* Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
+- B.S. in Data Science and AI: final MQT is 5 September; direct learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September.
+- M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 19 September. Selected Preparedness Programmes run in parallel with Trimester 1.
+- Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
 Use this as the current verified curriculum and admissions snapshot when the user asks about the M.Sc. course structure, year-2 curriculum, or current application timelines.
 Then explain briefly:
 "The M.Sc. is a two-year programme for graduates, and eligibility requires a bachelor's degree with Mathematics or Statistics as one of the subjects, along with the required overall score."
@@ -978,10 +978,10 @@ Professional Certificate programmes:
   Do not guarantee refunds. Advise callers that refunds are processed as per the applicable policy. If the caller has a specific refund dispute, offer counsellor callback.
 ## Important dates
 Use these current facts as the source of truth. If older knowledge-base snippets conflict with this section, this section overrides them.
-* B.S. in Data Science and AI: final application deadline is 31 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
-* M.Sc. in Data Science and AI: final application deadline is 31 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
-* Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
-* Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
+- B.S. in Data Science and AI: final MQT is 5 September; direct learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September.
+- M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 19 September. Selected Preparedness Programmes run in parallel with Trimester 1.
+- Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
 * Professional Certificate in Cybersecurity and Secure Software Development: applications open, application deadline, orientation, and batch commencement are To Be Announced.
 * Admissions are reviewed on a rolling basis. Applications are evaluated as received. Eligible candidates may receive offers before the final deadline, and admissions may close earlier if seats are filled.
 Use this as the current verified curriculum and admissions snapshot when the user asks about the M.Sc. course structure, year-2 curriculum, or current application timelines.

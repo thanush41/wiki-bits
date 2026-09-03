@@ -196,10 +196,12 @@ Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newes
 
 Latest verified admissions snapshot (newest wiki):
 
-- B.S. in Data Science and AI: final application deadline is 31 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
-- M.Sc. in Data Science and AI: final application deadline is 31 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
-- Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
-- Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
+- B.S. in Data Science and AI: final Mathematics Qualifier Test (MQT) for the September 2026 intake is 5 September; direct learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September. Do not call this the Mathematics Bridge Programme in current applicant-facing communication.
+- M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 19 September. Selected Mathematics and Programming Preparedness Programmes run in parallel with Trimester 1.
+- Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- Professional Certificate in Cybersecurity and Secure Software Development: orientation and batch commencement are To Be Announced.
+- For an applicant's payment or admission deadline, use the deadline in their current Offer Letter or subsequent official communication; do not infer a universal application cutoff from older snapshots.
 
 Latest verified Professional Certificate eligibility snapshot:
 

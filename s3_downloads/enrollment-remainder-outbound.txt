@@ -287,11 +287,11 @@ If the person wants more detail than the default line covers:
 # Orientation, scholarships, and discounts
 Check the attached knowledge base first for orientation dates, scholarship, and discount details specific to `{{program_name}}`. Use the fallback facts below only when the knowledge base does not contain programme-specific figures. These questions are in scope for this call and should be answered directly — do not treat them as unrelated programme-counselling questions.
 ## Orientation and key dates (approved fallback)
-* B.S. in Data Science and AI: final application deadline is 31 August 2026; orientation is 11 September 2026; Mathematics Bridge Programme orientation is 16 September 2026 tentatively.
-* M.Sc. in Data Science and AI: final application deadline is 31 August 2026; orientation is 12 September 2026; Mathematics and Programming Preparedness Programme orientation is 16 September 2026 tentatively.
-* Professional Certificate in AI Engineering and MLOps: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 18 September 2026; first class, Module zero, is 3 October 2026.
-* Professional Certificate in Generative AI and Agentic AI: applications open on 9 July 2026; final application deadline is 31 August 2026; orientation is 17 September 2026; first class, Module zero, is 3 October 2026.
-* Admissions are reviewed on a rolling basis, so eligible candidates may receive offers before the final deadline.
+- B.S. in Data Science and AI: final MQT is 5 September; direct learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September.
+- M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 19 September. Selected Preparedness Programmes run in parallel with Trimester 1.
+- Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- For payment or admission deadlines, use the candidate's current Offer Letter or subsequent official communication.
 ## Scholarships and discounts
 Do not invent scholarship or discount availability, amounts, eligibility criteria, or percentages.
 * If `{{program_name}}` is B.S. or M.Sc., say: "At present, there are no standard scholarships or fee discounts for this programme. The programme fee applies as published for the cohort. Where available, you may explore E-M-I or education-financing options for the programme."
@@ -311,7 +311,7 @@ Check the attached knowledge base first for any of the topics below, specific to
 * Professional Certificate in Generative AI and Agentic AI: applicants must possess at least a bachelor's degree and should have studied Mathematics in Grade 12; minimum two years of relevant work experience; foundational proficiency in Python and AWS, or the optional eight-week Python and AWS Bridge Programme.
 * Completing a Bridge Programme or meeting published eligibility does not guarantee admission; admission remains subject to batch availability, document verification, and admissions review.
 ## Preparedness and Bridge programmes
-* Mathematics Bridge Programme (B.S.): for eligible B.S. applicants who need to strengthen mathematical foundations; must be completed before the B.S. programme starts and does not run in parallel with Trimester 1.
+- Foundation Course in Mathematics (B.S.): for eligible B.S. applicants who need to strengthen mathematical foundations; it forms part of the B.S. admission pathway, is not a standalone programme, and must be successfully completed with the prescribed assessment before progression to subsequent B.S. courses. Use this current name in applicant-facing communication.
 * Mathematics Preparedness Programme and Programming Preparedness Programme (M.Sc.): optional four-month academic refreshers for eligible M.Sc. applicants; not degree, certificate, or admission pathways. Students may complete them concurrently alongside M.Sc. Trimester 1 or sequentially, one after the other. Learners choosing a preparedness programme first must complete it before commencing M.Sc. Trimester 1. Mathematics Preparedness Programme fee: eight thousand two hundred fifty rupees. Programming Preparedness Programme fee: eight thousand five hundred rupees.
 * Bridge Programme (Professional Certificates): an optional eight-week programme covering foundational Python, AWS, and (for AI Engineering & MLOps) Mathematics Essentials for AI, for applicants who don't yet meet the proficiency self-declaration.
 ## Application process (for reference, if a candidate asks how the offer came about, or a parent/sponsor asks on their behalf)
