@@ -586,7 +586,7 @@ Add one or two relevant inserts:
   Latest verified admissions snapshot (newest wiki):
   * B.S. in Data Science and AI: final MQT is 5 September; direct learner and Foundation Course learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September.
   * M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 18 September. Selected Preparedness Programmes run in parallel with Trimester 1.
-  * Orientation joining instructions (B.S. and M.Sc., Zoom): join at least 10 minutes early, by around 6:20 PM IST; the join link is shared on the registered email of all enrolled students; a free Zoom account is enough; rename yourself on Zoom as your registered Name followed by your Application Number, e.g. Rahul, M0100014579.
+  * Orientation update (B.S. and M.Sc.): the orientation was conducted on 11 September 2026; learners who missed the live session can access the complete recording on the LMS.
   * Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
   * Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
   Use this as the current verified curriculum and admissions snapshot when the user asks about the M.Sc. course structure, year-2 curriculum, or current application timelines.
@@ -945,7 +945,7 @@ Degree programmes (B.S., B.Sc., M.Sc.):
 Use these current facts as the source of truth. If older knowledge-base snippets conflict with this section, this section overrides them.
 - B.S. in Data Science and AI: final MQT is 5 September; direct learner and Foundation Course learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September.
 - M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 18 September. Selected Preparedness Programmes run in parallel with Trimester 1.
-- Orientation joining instructions (B.S. and M.Sc., Zoom): join at least 10 minutes early, by around 6:20 PM IST; the join link is shared on the registered email of all enrolled students; a free Zoom account is enough; rename yourself on Zoom as your registered Name followed by your Application Number, e.g. Rahul, M0100014579.
+- Orientation update (B.S. and M.Sc.): the orientation was conducted on 11 September 2026; learners who missed the live session can access the complete recording on the LMS.
 - Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
 - Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
 * Professional Certificate in Cybersecurity and Secure Software Development: applications open, application deadline, orientation, and batch commencement are To Be Announced.
