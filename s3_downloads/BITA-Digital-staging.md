@@ -196,7 +196,7 @@ Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newes
 
 Latest verified admissions snapshot (newest wiki):
 
-- B.S. in Data Science and AI: final Mathematics Qualifier Test (MQT) for the September 2026 intake is 5 September; direct learner and Foundation Course learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September. Do not call this the Mathematics Bridge Programme in current applicant-facing communication.
+- B.S. in Data Science and AI: final Mathematics Qualifier Test (MQT) for the September 2026 intake is 5 September; direct learner and Foundation Course learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September. Do not call this the Mathematics Bridge Programme in current applicant-facing communication. The September 2026 intake is now closed to new applications; the next intake, January 2027, will open applications soon.
 - M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 18 September. Selected Mathematics and Programming Preparedness Programmes run in parallel with Trimester 1.
 - Orientation update (B.S. and M.Sc.): the orientation was conducted on 11 September 2026; learners who missed the live session can access the complete recording on the LMS.
 - Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
