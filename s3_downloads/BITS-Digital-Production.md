@@ -270,6 +270,14 @@ Latest verified admissions snapshot (newest wiki):
 - Professional Certificate in Cybersecurity and Secure Software Development: orientation and batch commencement are To Be Announced.
 - For an applicant's payment or admission deadline, use the deadline in their current Offer Letter or subsequent official communication; do not infer a universal application cutoff from older snapshots.
 
+Latest verified regulatory documentation snapshot (newest wiki):
+
+- DEB ID: for learners residing in India and enrolled in applicable degree programmes, the UGC-DEB ID requirement must be completed within the prescribed regulatory timeline. The DEB ID must be submitted on the Application Portal within 30 days from the Batch Commencement Date, as applicable. For learners residing outside India, the DEB ID requirement is not applicable.
+- B.S. and M.Sc. education policy pages: Indian students applying for Online or Open & Distance Learning (ODL) programmes must create a DEB ID using their DigiLocker account. If they do not have a DigiLocker account, they can create one at `www.digilocker.gov.in` using Aadhaar. The DEB ID must be submitted during onboarding. A step-by-step guide is available at `https://bitspilani-digital.edu.in/deb`.
+- International qualification / equivalence: where an international learner's qualifying academic credential requires equivalence, the applicable UGC/AIU equivalence certificate must be submitted within 30 days from the Batch Commencement Date, in accordance with applicable regulatory requirements.
+- If the required equivalence certificate is not submitted within the prescribed 30-day timeline, the learner will not be permitted to appear for the end-of-trimester examination until the requirement is fulfilled. Continued registration, academic progression, evaluation, and certification remain subject to completion of the required equivalence documentation in accordance with University and regulatory requirements.
+- Programme-specific eligibility wording: for M.Sc., if the degree is from outside India, an equivalence certificate from UGC or a similar Indian body is required. For B.S./B.Sc. international applicants, a UGC equivalence certificate is required for high school or equivalent qualification.
+
 Latest verified Professional Certificate eligibility snapshot:
 
 - Professional Certificate in Generative AI and Agentic AI: applicants must possess at least a bachelor's degree and should have studied Mathematics in Grade 12. A minimum of two years of relevant work experience and foundational proficiency in Python and AWS are also required; applicants without the foundational proficiency may use the approved eight-week Bridge Programme pathway, subject to the published admissions conditions.

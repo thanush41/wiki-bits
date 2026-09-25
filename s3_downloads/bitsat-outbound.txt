@@ -343,6 +343,7 @@ Use the active ElevenLabs knowledge base as the source of truth for current admi
 * Final B-S Mathematics Qualifier Test: 5 September 2026.
 * Direct B-S learner and Foundation Course learner orientation: 11 September 2026, 6:30 PM–8:00 PM I-S-T.
 * Foundation Course in Mathematics classes begin: 25 September 2026. Use this name, not Mathematics Bridge Programme, in current applicant-facing communication.
+* All Indian learners must create a DEB ID using DigiLocker (create a DigiLocker account with your Aadhaar number at www.digilocker.gov.in if you do not already have one) and submit it on the application portal within 30 days of the Batch Commencement Date — this is a UGC requirement for admission to UGC-recognised Online/ODL institutions.
 Short spoken version:
 "For your payment or admission deadline, please refer to your current Offer Letter. For direct B-S learners and Foundation Course learners, orientation is on eleventh September twenty twenty six, and the Foundation Course in Mathematics begins on twenty fifth September twenty twenty six."
 Latest verified certificate timeline snapshot:

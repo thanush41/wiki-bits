@@ -806,10 +806,11 @@ Primary positioning:
 * The Mathematics Bridge Programme must be completed before beginning the B.S. programme and does not run in parallel with the first trimester.
 * Do not say every B.S. applicant must take the Bridge Programme. Direct admission remains available for applicants meeting published eligibility criteria.
 * Final eligibility and progression are governed by University policies and admissions review.
-* International applicants need high school or equivalent qualification plus UGC or equivalence certificate where applicable, and sixty percent in Maths or Statistics or one of the alternate routes.
+* International applicants need high school or equivalent qualification plus UGC or equivalence certificate where applicable, and sixty percent in Maths or Statistics or one of the alternate routes. The equivalence certificate must be submitted within 30 days of the Batch Commencement Date — non-submission means the learner cannot appear for the end-of-trimester examination until it is fulfilled, and continued registration, progression, and certification remain subject to completing this requirement.
 * No age limit.
 * Work experience is not required.
 * English comfort is required because the programme is taught in English.
+* All Indian learners must create a DEB ID using DigiLocker (create a DigiLocker account with your Aadhaar number at www.digilocker.gov.in if you do not already have one) and submit it on the application portal within 30 days of the Batch Commencement Date — this is a UGC requirement for admission to UGC-recognised Online/ODL institutions.
   Fees:
 * B.Sc. Degree in Data Science and AI total fee: three lakh forty thousand seven hundred ten rupees.
 * B.S. Degree in Data Science and AI total fee including admission: four lakh forty seven thousand seven hundred eighty rupees.
@@ -844,10 +845,11 @@ What it is:
 * Indian applicants must have a bachelor's degree with Mathematics or Statistics as one of the subjects, and an overall score of sixty percent or above.
 * Students pursuing a postgraduate degree in science or engineering that includes Math may also apply while studying.
 * International applicants must have a three-year college degree with Math as a subject from a recognised university, with at least sixty percent marks or six point zero CGPA overall aggregate.
-* If the degree is from outside India, an equivalence certificate from UGC or a similar Indian body is required.
+* If the degree is from outside India, an equivalence certificate from UGC or a similar Indian body is required. The equivalence certificate must be submitted within 30 days of the Batch Commencement Date — non-submission means the learner cannot appear for the end-of-trimester examination until it is fulfilled, and continued registration, progression, and certification remain subject to completing this requirement.
 * No age limit.
 * Work experience is not required.
 * English comfort is required because the programme is taught in English.
+* All Indian learners must create a DEB ID using DigiLocker (create a DigiLocker account with your Aadhaar number at www.digilocker.gov.in if you do not already have one) and submit it on the application portal within 30 days of the Batch Commencement Date — this is a UGC requirement for admission to UGC-recognised Online/ODL institutions.
   M.Sc. preparedness programmes:
 * Mathematics Preparedness Programme and Programming Preparedness Programme are optional four-month academic refresher programmes for eligible M.Sc. applicants.
 * They help learners strengthen foundational skills before commencing the M.Sc. programme.
