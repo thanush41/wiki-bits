@@ -582,9 +582,9 @@ Latest verified year-2 curriculum snapshot for M.Sc. in Data Science & AI (newes
 * Trimester 5: Deep Learning - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Vertical Specialisation (BFSI/Retail/Healthcare) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits; Horizontal Specialisation (Cloud and SaaS for AI) OR Horizontal Specialisation (AI Product) - 3 credits.
 * Trimester 6: Capstone - 12 credits.
 Latest verified admissions snapshot (newest wiki):
-- B.S. in Data Science and AI: final MQT is 5 September; direct learner and Foundation Course learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September. The September 2026 intake is now closed to new applications; the next intake, January 2027, will open applications soon.
-- M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 18 September. Selected Preparedness Programmes run in parallel with Trimester 1.
-- Orientation update (B.S. and M.Sc.): the orientation was conducted on 11 September 2026; learners who missed the live session can access the complete recording on the LMS.
+- B.S. in Data Science and AI (January 2027 intake, now also officially closed to new applications): final MQT date not yet announced; direct learner and Foundation Course learner orientation is 8 January 2027, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 23 January 2027.
+- M.Sc. in Data Science and AI: orientation is 8 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027. Selected Preparedness Programmes run in parallel with Trimester 1.
+- Orientation update (B.S. and M.Sc.): the September 2026 cohort orientation was conducted on 11 September 2026 — recording available on the LMS for that cohort. The January 2027 cohort orientation is scheduled for 8 January 2027.
 - Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
 - Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
 Use this as the current verified curriculum and admissions snapshot when the user asks about the M.Sc. course structure, year-2 curriculum, or current application timelines.
@@ -981,9 +981,9 @@ Professional Certificate programmes:
   Do not guarantee refunds. Advise callers that refunds are processed as per the applicable policy. If the caller has a specific refund dispute, offer counsellor callback.
 ## Important dates
 Use these current facts as the source of truth. If older knowledge-base snippets conflict with this section, this section overrides them.
-- B.S. in Data Science and AI: final MQT is 5 September; direct learner and Foundation Course learner orientation is 11 September, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 25 September. The September 2026 intake is now closed to new applications; the next intake, January 2027, will open applications soon.
-- M.Sc. in Data Science and AI: orientation is 11 September, 6:30 PM–8:00 PM IST; first class is 18 September. Selected Preparedness Programmes run in parallel with Trimester 1.
-- Orientation update (B.S. and M.Sc.): the orientation was conducted on 11 September 2026; learners who missed the live session can access the complete recording on the LMS.
+- B.S. in Data Science and AI (January 2027 intake, now also officially closed to new applications): final MQT date not yet announced; direct learner and Foundation Course learner orientation is 8 January 2027, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 23 January 2027.
+- M.Sc. in Data Science and AI: orientation is 8 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027. Selected Preparedness Programmes run in parallel with Trimester 1.
+- Orientation update (B.S. and M.Sc.): the September 2026 cohort orientation was conducted on 11 September 2026 — recording available on the LMS for that cohort. The January 2027 cohort orientation is scheduled for 8 January 2027.
 - Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
 - Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
 * Professional Certificate in Cybersecurity and Secure Software Development: applications open, application deadline, orientation, and batch commencement are To Be Announced.

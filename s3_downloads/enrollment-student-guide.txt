@@ -255,7 +255,16 @@ Check the attached knowledge base first. Use only if it has no programme-specifi
 * B.S. first class and M.Sc. first class: 18 September 2026.
 * B.S. Foundation Course in Mathematics classes: 25 September 2026.
 * M.Sc. Preparedness Programme classes: 25 September 2026.
-* Degree admissions (September 2026 intake): closed as of 18 September 2026. The next intake, January 2027, will open applications soon.
+* Degree admissions (September 2026 intake): closed.
+Dates are cohort-specific. Do not reuse them for a future intake without a fresh approved communication.
+# January 2027 cohort — key dates (approved fallback, only if asked)
+This is the next degree-programme cohort after September 2026. Use these dates for a learner asking about the January 2027 intake specifically; use the September 2026 dates above for a learner from that earlier, already-enrolled cohort.
+* B.S. Final Mathematics Qualifier Test (MQT): not yet announced.
+* Orientation (B.S. / M.Sc. / Foundation): scheduled for 8 January 2027, 6:30 PM–8:00 PM IST.
+* M.Sc. first class: 15 January 2027.
+* B.S. Foundation Course in Mathematics classes: 23 January 2027.
+* M.Sc. Preparedness Programme classes: 23 January 2027.
+* Degree admissions (January 2027 intake): now officially closed to new applications.
 Dates are cohort-specific. Do not reuse them for a future intake without a fresh approved communication.
 # DEB ID and equivalence certificate compliance (answer only if asked)
 Check the attached knowledge base first. Use only if it has no programme-specific answer, and mention these only if the learner asks.
