@@ -266,7 +266,7 @@ Latest verified admissions snapshot (newest wiki):
 - M.Sc. in Data Science and AI: orientation is 8 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027. Selected Mathematics and Programming Preparedness Programmes run in parallel with Trimester 1.
 - Orientation update (B.S. and M.Sc.): the September 2026 cohort orientation was conducted on 11 September 2026 — recording available on the LMS for that cohort. The January 2027 cohort orientation is scheduled for 8 January 2027.
 - Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
-- Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- Professional Certificate in Generative AI and Agentic AI: application deadline is 16 November 2026; orientation is 4 December 2026, 6:30 PM–7:30 PM IST; first Module zero class is 12 December 2026.
 - Professional Certificate in Cybersecurity and Secure Software Development: orientation and batch commencement are To Be Announced.
 - For an applicant's payment or admission deadline, use the deadline in their current Offer Letter or subsequent official communication; do not infer a universal application cutoff from older snapshots.
 
@@ -280,7 +280,7 @@ Latest verified regulatory documentation snapshot (newest wiki):
 
 Latest verified Professional Certificate eligibility snapshot:
 
-- Professional Certificate in Generative AI and Agentic AI: applicants must possess at least a bachelor's degree and should have studied Mathematics in Grade 12. A minimum of two years of relevant work experience and foundational proficiency in Python and AWS are also required; applicants without the foundational proficiency may use the approved eight-week Bridge Programme pathway, subject to the published admissions conditions.
+- Professional Certificate in Generative AI and Agentic AI eligibility: applicants must possess at least a bachelor's degree and should have studied Mathematics in Grade 12, and should be comfortable writing basic programs in at least one programming language. Work experience is preferred but not mandatory, and recent graduates are welcome to apply; there is no longer a separate Bridge Programme pathway, as a built-in five-week Python and cloud foundation is now included in the main programme.
 - Do not apply this Grade 12 Mathematics rule to the Professional Certificate in AI Engineering and MLOps; verify that programme's eligibility separately from its KB source.
 
 Latest verified scholarship and fee-discount snapshot:

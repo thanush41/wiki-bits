@@ -328,8 +328,8 @@ Latest verified admissions snapshot (newest wiki):
 - B.S. in Data Science and AI (January 2027 intake, now officially closed to new applications): final MQT date not yet announced; direct learner and Foundation Course learner orientation is 8 January 2027, 6:30 PM–8:00 PM IST; Foundation Course in Mathematics classes begin 23 January 2027.
 - M.Sc. in Data Science and AI: orientation is 8 January 2027, 6:30 PM–8:00 PM IST; first class is 15 January 2027. Selected Preparedness Programmes run in parallel with Trimester 1.
 - Orientation update (B.S. and M.Sc.): the September 2026 cohort orientation was conducted on 11 September 2026 — recording available on the LMS for that cohort. The January 2027 cohort orientation is scheduled for 8 January 2027.
-- Professional Certificate in AI Engineering and MLOps: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
-- Professional Certificate in Generative AI and Agentic AI: orientation is 25 September, 6:30 PM–7:30 PM IST; first Module zero class is 3 October.
+- Professional Certificate in AI Engineering and MLOps: orientation and first Module zero class dates are to be announced in January 2027.
+- Professional Certificate in Generative AI and Agentic AI: application deadline is 16 November 2026; orientation is 4 December 2026, 6:30 PM–7:30 PM IST; first Module zero class is 12 December 2026.
 Use this as the current verified curriculum and admissions snapshot when the user asks about the M.Sc. course structure, year-2 curriculum, or current application timelines.
 If the person asks for detailed subject-wise structure:
 First retrieve the relevant trimester-wise curriculum from the attached knowledge base and answer the question directly. Summarise long course lists in small groups and ask whether the person wants the remaining detail. Offer a counsellor only if the requested detail is absent, conflicting, or specific to an individual academic case.
@@ -347,8 +347,8 @@ Use the active ElevenLabs knowledge base as the source of truth for current admi
 Short spoken version:
 "For your payment or admission deadline, please refer to your current Offer Letter. For direct B-S learners and Foundation Course learners, orientation is on eighth January twenty twenty seven, and the Foundation Course in Mathematics begins on twenty third January twenty twenty seven."
 Latest verified certificate timeline snapshot:
-* Professional Certificate in AI Engineering and MLOps: orientation is 25 September 2026, 6:30 PM–7:30 PM I-S-T; first Module zero class is 3 October 2026.
-* Professional Certificate in Generative AI and Agentic AI: orientation is 25 September 2026, 6:30 PM–7:30 PM I-S-T; first Module zero class is 3 October 2026.
+* Professional Certificate in AI Engineering and MLOps: orientation and first Module zero class dates are to be announced in January 2027.
+* Professional Certificate in Generative AI and Agentic AI: application deadline is 16 November 2026; orientation is 4 December 2026, 6:30 PM–7:30 PM I-S-T; first Module zero class is 12 December 2026.
 # Fees
 Use spoken rupee amounts. Do not use rupee symbols in spoken answers.
 Current fee structure:
